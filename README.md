@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @enzoJOtalora
-- 👀 I’m interested in ... TO BE EDITED
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, my name is Enzo Otalora, I'm an advanced electronics engineer student.
+- 👀 Interested in learning web development for integration with embedded systems, as well as interfacing.
+- 🌱 Currently learning frontend development, looking forward to develop interesting portfolio projects and real time online visualizers for embedded sensor and control systems.
+- 📫 enzojulianotalora@gmail.com
 
 <!---
 enzoJOtalora/enzoJOtalora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
